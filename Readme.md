@@ -1,0 +1,1 @@
+This is a code for scraping websites for personal use.
